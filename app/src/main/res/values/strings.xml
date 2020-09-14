@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Emotion Recognition</string>
+    <string name="permissions_not_granted_toast">Permissions not granted by the user</string>
+
+    <string name="angry">Angry</string>
+    <string name="disgust">Disgust</string>
+    <string name="fear">Fear</string>
+    <string name="happy">Happy</string>
+    <string name="sad">Sad</string>
+    <string name="surprise">Surprise</string>
+    <string name="neutral">Neutral</string>
+</resources>
